@@ -56,3 +56,11 @@ input {
     background: #4bbcf4;
     color: #fff;
 }
+
+
+/* las clases*/
+
+.quienesSomos{
+    color: aqua;
+    justify-content: center;
+}
